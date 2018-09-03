@@ -1,0 +1,5 @@
+incheck()
+	- and checkmate
+en passant
+castling
+promote pawns
